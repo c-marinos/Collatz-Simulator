@@ -16,3 +16,5 @@ Regular simulator can be found in App folder.
 2-adic simulation can be found in App2 folder.
 
 ![alt text](https://i.imgur.com/8J16bGw.png)
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif)
